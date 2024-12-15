@@ -1,0 +1,43 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  
+}
+body{
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.text-primary{
+  font-size:110px;
+  height:auto;
+  width:auto;
+  margin:2vh 2vh;
+  
+  
+}
+.main-container{
+ text-align:center;
+  align-items:center;
+  justify-content:center;
+}
+.main-container input{
+  height:40px;
+  width:300px;
+  margin-left:50px;
+  border-style:line;
+  
+}
+.btn-primary{
+  height:40px;
+  width:180px;
+  background:#1E6CE4;
+  color:white;
+  font-weight:bold;
+  border-style:none;
+}
+.begin{
+  color:#1E6CE4;
+}
